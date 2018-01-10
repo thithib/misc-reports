@@ -1,6 +1,6 @@
 # Miscellaneous Reports
 
-Here are some reports written as part of school projects or other stuff.
+Here are some reports written as part of school projects, internships or other activities.
 
 ### Spamalysis
 
@@ -23,3 +23,5 @@ The PDF file is named `bibliographic-review-protection-provided-by-operating-sys
 This report is confidential for now and will be available in January 2018. It was written at the end of my 6-months internship at Orange Labs.
 
 During this internship, I was part of a research team working on Cloud security. I implemented a "Moving Target Defense" framework to detect cache-based side-channel attacks between virtual machines in order to mitigate them.
+
+**Edit on January 10, 2018:** We are currently submitting a paper based on the research carried out during my internship. As a consequence, my report will only be available once we get the results about this submission.
